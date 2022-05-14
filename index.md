@@ -11,7 +11,6 @@
 ### Nuestro Estudio efectúa las gestiones de autorización ante la AFIP para la venta de inmuebles por parte de residentes del exterior.
 
 ### Consúltenos.
-
 ||
 |-|
 |<img src="./files/wsp_128x128.png" alt="Whatsapp" width="24"/> [+54 9 11 3409 5343](tel:+5491134095343)|
