@@ -8,9 +8,8 @@
 
 ## Contador Público
 
-### Nuestro Estudio efectúa las gestiones de autorización ante la AFIP para la venta de inmuebles por parte de residentes del exterior.
+### Nuestro Estudio efectúa las gestiones de autorización ante la AFIP para la venta de inmuebles por parte de residentes del exterior. Lea nuestro [artículo](https://www.linkedin.com/pulse/residentes-en-el-exterior-c%C3%B3mo-vendo-mi-inmueble-marcelo-kukulanski) publicado en LinkedIn.
 
-### Consúltenos.
 
 ||
 |-|
