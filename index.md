@@ -6,10 +6,12 @@
 </body>
 </html>
 
+<!--
 <meta property="og:title" content="Marcelo Kukulanski" />
 <meta name="description" content="Contador Público" />
 <meta property="og:url" content="https://mdkuski.github.io/" />
 <meta property="og:image" content="https://raw.githubusercontent.com/mdkuski/mdkuski.github.io/master/files/mdkuski.png" />
+-->
 
 ## Contador Público
 
