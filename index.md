@@ -18,5 +18,5 @@
 |<img src="./files/email_128x128.png" alt="Email" width="24"/> [mdkuski@gmail.com](mailto:mdkuski@gmail.com)|
 
 
-<img src="./files/qr_mdkuski.github.io.png" alt="QR" width="150"/> <img src="./files/mdkuski.png" alt="photo" width="150"/>
+<img src="./files/qr_vcard.png" alt="QR" width="150"/> <img src="./files/mdkuski.png" alt="photo" width="150"/>
 
